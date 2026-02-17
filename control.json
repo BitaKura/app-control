@@ -1,5 +1,5 @@
 {
-  "app_enabled": true,
-  "message": "Welcome",
-  "force_logout": false
+  "enabled": true,
+  "time_minutes": 60,
+  "message": "Session expired"
 }
