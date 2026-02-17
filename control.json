@@ -1,5 +1,5 @@
 {
-  "app_enabled": false,
+  "app_enabled": true,
   "message": "Welcome",
   "force_logout": false
 }
