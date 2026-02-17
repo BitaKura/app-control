@@ -1,5 +1,6 @@
 {
   "enabled": true,
-  "time_minutes": 60,
-  "message": "Session expired"
+  "username": "admin",
+  "password": "12345",
+  "message": "Welcome"
 }
