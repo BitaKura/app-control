@@ -1,6 +1,4 @@
 {
   "enabled": true,
-  "username": "admin",
-  "password": "12345",
-  "message": "Welcome"
+  "message": "App disabled by admin"
 }
