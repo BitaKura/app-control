@@ -1,5 +1,4 @@
 {
     "enabled": true,
-    "message": "App is active",
-    "time_limit_minutes": 400
+    "message": "App is active"
 }
