@@ -1,4 +1,5 @@
 {
-  "enabled": true,
-  "message": "App disabled by admin"
+    "enabled": true,
+    "message": "App is active",
+    "time_limit_minutes": 400
 }
