@@ -1,1 +1,9 @@
 
+{
+    "allow_all": false,
+    "devices": [
+        "DEVICE_ID_1",
+        "DEVICE_ID_2"
+    ],
+    "blacklist": []
+}
