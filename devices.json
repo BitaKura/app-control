@@ -1,9 +1,7 @@
-
 {
-    "allow_all": false,
-    "devices": [
-        "DEVICE_ID_1",
-        "DEVICE_ID_2"
-    ],
-    "blacklist": []
+  "devices": {},
+  "settings": {
+    "default_expiry_minutes": 5100,
+    "version": "1.0"
+  }
 }
